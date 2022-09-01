@@ -1,0 +1,6 @@
+name: FyLand Plugin
+version: '${project.version}'
+main: rambasorstudio.core.Main
+api-version: 1.16
+authors: [ RambasorStudio ]
+description: Plugin del servidor FyLand || Rambasor Game Studio
